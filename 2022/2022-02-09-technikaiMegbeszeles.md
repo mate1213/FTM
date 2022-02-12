@@ -15,5 +15,3 @@
  - Pásztor kör - tech csapat kommunikáció (1-2 ember a pásztor körből és technikusok közül is)
  
 ## TOVÁBBIAK
- - Találkozó ***Márc. 2.*** `ha jönnél írj e-mail-t zsolyamate@gmail.com küldünk megívót`
- - Pontos helyszín és időpont egyeztetése folyamatban
